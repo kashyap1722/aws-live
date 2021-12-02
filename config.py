@@ -1,6 +1,6 @@
-customhost = "my.csv2zqyvevoe.ap-southeast-1.rds.amazonaws.com"
+customhost = "empl.csv2zqyvevoe.ap-southeast-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "mypassword"
-customdb = "my"
+customdb = "empl"
 custombucket = "addemps3"
 customregion = "ap-southeast-1"
